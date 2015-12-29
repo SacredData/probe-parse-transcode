@@ -3,3 +3,7 @@ analysis_logs_dir : /home/agrathwohl/code/sacreddata/probe-parse-transcode/logs/
 y4m_sources       : /home/agrathwohl/code/sacreddata/probe-parse-transcode/sources/y4m/
 vp8_sources       : /home/agrathwohl/code/sacreddata/probe-parse-transcode/sources/vp8/
 vp9_sources       : /home/agrathwohl/code/sacreddata/probe-parse-transcode/sources/vp9/
+webm_sources      : /home/agrathwohl/code/sacreddata/probe-parse-transcode/sources/webm/
+wav_sources       : /home/agrathwohl/code/sacreddata/probe-parse-transcode/sources/wav/
+ogg_sources       : /home/agrathwohl/code/sacreddata/probe-parse-transcode/sources/ogg/
+opus_sources      : /home/agrathwohl/code/sacreddata/probe-parse-transcode/sources/opus/
